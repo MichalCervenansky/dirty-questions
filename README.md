@@ -2,6 +2,28 @@
 
 A fun and interactive quiz application built with Streamlit that allows users to take various quizzes, view their scores, and generate PDF versions of quizzes (both blank and with answers).
 
+
+## NSFW Quiz Comparison Table judged by R1
+
+| **File Name**                          | Uncensored 🚫 | Humor 😂 | Dirty 🍑 | Notes                                                                 |
+|----------------------------------------|---------------|----------|----------|-----------------------------------------------------------------------|
+| `20q_4o.txt` (NSFW Edition)            | 3/5           | 3/5      | 3/5      | Playful and consent-focused, with mild humor (e.g., "animal sounds"). |
+| `20q_gemini_flash.txt` (Gemini)        | 4/5           | 4/5      | 4/5      | Bold questions (public sex, strap-ons) + cheeky humor ("unicorn" safe word). |
+| `20q_R1.txt` (Midnight Mastery)        | 2/5           | 4/5      | 2/5      | Lighthearted and practical (e.g., "hydrate post-sex") but tamer content. |
+| `20q_claude_37.txt` (XXX Edition)      | 5/5           | 4/5      | 5/5      | Explicit topics (anal play, blowjobs) + witty humor ("lollipop competition"). |
+| `20q_gemini_25.txt` (Naughty & Nice)   | 4/5           | 5/5      | 4/5      | Raunchy scenarios (food play, PDA) + laugh-out-loud options (farting mid-sex). |
+| `20q_o3_mini.txt` (Mini Edition)       | 2/5           | 2/5      | 1/5      | More suggestive than explicit (e.g., "hidden rooftop rendezvous").    |
+
+### Key Observations 🔍
+- **Most Uncensored/Dirty** 🏆: `20q_claude_37.txt`  
+- **Funniest** 🎭: `20q_gemini_25.txt`  
+- **Best Balance** ⚖️: `20q_gemini_flash.txt`  
+- **Mildest** 🍵: `20q_o3_mini.txt`
+
+> **Note**  
+> Ratings based on automated analysis of explicit content density, humor style, and provocative language usage. Actual experience may vary by user interpretation.
+
+
 ## Introduction
 
 The Dirty Questions app is a customizable quiz platform that:
