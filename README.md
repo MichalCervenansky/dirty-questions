@@ -26,7 +26,7 @@ Perfect for creating fun quizzes for friends, educational assessments, or team-b
 
 2. **Get the repository**:
    ```
-   git clone https://github.com/yourusername/dirty-questions.git
+   git clone https://github.com/MichalCervenansky/dirty-questions.git
    # or download and extract the ZIP file
    cd dirty-questions
    ```
@@ -52,7 +52,7 @@ Perfect for creating fun quizzes for friends, educational assessments, or team-b
 
 2. **Get the repository**:
    ```
-   git clone https://github.com/yourusername/dirty-questions.git
+   git clone https://github.com/MichalCervenansky/dirty-questions.git
    # or download and extract the ZIP file
    cd dirty-questions
    ```
@@ -79,7 +79,7 @@ Perfect for creating fun quizzes for friends, educational assessments, or team-b
 
 2. **Get the repository**:
    ```
-   git clone https://github.com/yourusername/dirty-questions.git
+   git clone https://github.com/MichalCervenansky/dirty-questions.git
    # or download and extract the ZIP file
    cd dirty-questions
    ```
